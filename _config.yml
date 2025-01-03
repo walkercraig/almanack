@@ -23,6 +23,8 @@ icon: /assets/images/halfdollarmini.png
 twitter_username: almanackblog
 github_username:  
 
+ignore_theme_config: true
+
 # Build settings
 markdown: kramdown
 
