@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Almanack
-email: mail@almanackmagazine.com
+email: mail@almanack.blog
 description: >- # this means to ignore newlines until "baseurl:"
-  A magazine of Americana. Commentary on current events. Telling the American tale.
+  A digital museum of Americana. Commentary on current events. Telling the American tale.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://almanackmagazine.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://almanack.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/halfdollarmini.png
-twitter_username: almanackonline
-github_username:  almanackmagazine
+twitter_username: almanackblog
+github_username:  
 
 # Build settings
 markdown: kramdown
