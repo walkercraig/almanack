@@ -1,5 +1,5 @@
 # Site settings
-name: 'Craig Walker'
+name: 'Almanack'
 description: 
 meta_description: 
 logo:
@@ -9,21 +9,21 @@ author:
   greetings: "Hello & Welcome."
 favicon: '/favicon.ico'
 baseurl: '/'
-production_url: 'https://walkercraig.github.io/'
+production_url: 'https://walkercraig.github.io/almanack'
 disqus: 
 mailchimp_url: '//walkercraig.us11.list-manage.com/subscribe/post?u=b845f7d1807ad41b6c0437990&amp;id=7bd2f97cd8'
 # Add your GA Tracking Id
 ga_analytics: G-7Z1MEJ4574
 
 # Contact form settings
-email: mail@walkercraig.com
-contact_page_description: "Feel free to contact Craig with any questions, concerns, or work related inquiries. You may also reach him by sending an email direct to the following address: mail at walkercraig dot com."
+email: editor@almanack.blog
+contact_page_description: "Feel free to contact us with any questions, concerns, or inquiries. You may also reach us by sending an email direct to the following address: editor at almanack dot blog."
 thankyou_page_description: "Your message has been successfully sent. We will contact you soon!"
 
 # Social links
-twitter: 'wlkrcrg'
-facebook: 'wlkrcrg'
-instagram: 'wlkrcrg'
+twitter: 'almanackblog'
+facebook: 'almanackblog'
+instagram: 'almanackblog'
 
 # Navigation
 navigation:
@@ -31,24 +31,14 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Letters
-    url: /tags/index.html#Letters
-  - text: Poems
-    url: /tags/index.html#Poems
-  - text: Songs
-    url: /tags/index.html#Songs
-  - text: Read
-    url: /tags/index.html#Read
-  - text: Watch
-    url: /tags/index.html#Watch
-  - text: Listen
-    url: /tags/index.html#Listen
-  - text: Photos
-    url: https://www.instagram.com/wlkrcrg
-  - text: Organizations
-    url: /organizations
+  - text: Opinion & Comment
+    url: /tags/index.html#comment
+  - text: Features
+    url: /tags/index.html#features
   - text: Contact
     url: /contact
+  - text: Donate
+    url: /donate
   - text: Search
     url: /search
 
