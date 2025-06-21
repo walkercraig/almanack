@@ -1,7 +1,7 @@
 ---
 layout: post
 tag: [ Commentary ]
-title: Simple Thing
+title: Coming Soon...
 featured image: assets/images/posts/2025/AlmanackCover1.jpg
 ---
 <br/>
