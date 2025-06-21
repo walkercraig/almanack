@@ -7,7 +7,7 @@ excerpt: Revisiting H.L. Mencken's 1922 essay in 2025, Craig makes some subtle c
 ---
 
 {% include image-caption.html imageurl="/assets/images/posts/2025/0_1.png#wide" 
-title="Apple" caption="This is caption" %}
+title="Apple" caption="This image, which can rightly be described as AI slop, is merely a placeholder but, notably, an image of AI slop is itself a subtle metaphor for our modern times." %}
 
 Revisiting H.L. Mencken's 1922 essay in 2025, Craig makes some subtle changes to modernize and update the language and syntax, to see what may still ring true today.
 
