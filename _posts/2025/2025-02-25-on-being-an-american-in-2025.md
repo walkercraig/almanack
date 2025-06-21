@@ -7,7 +7,7 @@ excerpt: Revisiting H.L. Mencken's 1922 essay in 2025, Craig makes some subtle c
 ---
 
 <figure>
-  <img src="{{site.url}}/assets/images/posts/2025/0_1.png" alt="my alt text"/>
+  <img src="https://walkercraig.github.io/assets/images/posts/2025/0_1.png" alt="my alt text"/>
   <figcaption>This image, which can rightly be described as AI slop, is merely a placeholder but, notably, an image of AI slop is itself a subtle metaphor for our modern times.</figcaption>
 </figure>
 
