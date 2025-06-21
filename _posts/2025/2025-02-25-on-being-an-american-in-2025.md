@@ -1,6 +1,7 @@
 ---
 layout: post
-tag: [ Read ]
+featured_image: assets/images/posts/2025/0_1.png
+tag: [ Commentary ]
 title: On Being an American in 2025
 ---
 
