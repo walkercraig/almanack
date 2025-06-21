@@ -7,7 +7,7 @@ logo:
 author:
   image: 'franklinhalfdollar.png'
   greetings: "Hello & Welcome."
-favicon: '/favicon.ico'
+favicon: '/almanack/favicon.ico'
 baseurl: '/'
 production_url: 'https://walkercraig.github.io/almanack'
 disqus: 
