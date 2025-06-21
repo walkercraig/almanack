@@ -6,8 +6,10 @@ title: On Being an American in 2025
 excerpt: Revisiting H.L. Mencken's 1922 essay in 2025, Craig makes some subtle changes to modernize and update the language and syntax, to see what may still ring true today.
 ---
 
-![0_1.png](https://walkercraig.github.io/almanack/assets/images/posts/2025/0_1.png)
-caption="This image, which can rightly be described as AI slop, is merely a placeholder but, notably, an image of AI slop is itself a subtle metaphor for our modern times." %}
+<figure>
+  <img src="{{site.url}}/assets/images/posts/2025/0_1.png" alt="my alt text"/>
+  <figcaption>This image, which can rightly be described as AI slop, is merely a placeholder but, notably, an image of AI slop is itself a subtle metaphor for our modern times.</figcaption>
+</figure>
 
 Revisiting H.L. Mencken's 1922 essay in 2025, Craig makes some subtle changes to modernize and update the language and syntax, to see what may still ring true today.
 
