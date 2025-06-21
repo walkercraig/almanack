@@ -31,12 +31,14 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Opinion & Comment
+  - text: Commentary
     url: /tags/index.html#comment
   - text: Features
     url: /tags/index.html#features
   - text: Contact
     url: /contact
+  - text: Shop
+    url: https://www.bonfire.com/store/chicagojournal/
   - text: Donate
     url: /donate
   - text: Search
