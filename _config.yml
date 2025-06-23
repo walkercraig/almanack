@@ -30,19 +30,19 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about
+    url: /almanack/about/
   - text: Commentary
-    url: /tags/index.html#comment
+    url: /almanack/tags/index.html#comment
   - text: Features
-    url: /tags/index.html#features
+    url: /almanack/tags/index.html#features
   - text: Contact
-    url: /contact
+    url: /almanack/contact
   - text: Shop
     url: https://www.bonfire.com/store/chicagojournal/
   - text: Donate
     url: /donate
   - text: Search
-    url: /search
+    url: /almanack/search
 
 # Required Plugins
 plugins_dir:
