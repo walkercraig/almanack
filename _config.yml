@@ -1,7 +1,7 @@
 # Site settings
 name: 'Almanack'
 description: 
-meta_description: 
+meta_description: Almanack is an independent, subscriber-supported blog launched in 2024 as America approached its 250th year. Inspired by the tradition of American letters, it weaves past and present to enrich today’s conversation on American arts, business, lifestyle, politics, science, and sport.
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
