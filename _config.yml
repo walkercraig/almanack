@@ -30,7 +30,7 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /almanack/about/
+    url: /almanack/about
   - text: Commentary
     url: /almanack/tags/index.html#comment
   - text: Features
