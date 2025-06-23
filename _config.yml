@@ -28,7 +28,7 @@ instagram: 'almanackblog'
 # Navigation
 navigation:
   - text: Home
-    url: /
+    url: /almanack
   - text: About
     url: /almanack/about
   - text: Commentary
