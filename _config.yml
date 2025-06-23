@@ -6,7 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'franklinhalfdollar.png'
-  greetings: "Hello & Welcome."
+  greetings: "On Life, Liberty, and the Pursuit..."
 favicon: '/favicon.ico'
 baseurl: '/almanack'
 production_url: 'https://walkercraig.github.io/almanack'
