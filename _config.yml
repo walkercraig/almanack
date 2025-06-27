@@ -28,21 +28,21 @@ instagram: 'almanackblog'
 # Navigation
 navigation:
   - text: Home
-    url: /almanack
+    url: /
   - text: About
-    url: /almanack/about
+    url: /about
   - text: Commentary
-    url: /almanack/tags/index.html#comment
+    url: /tags/index.html#comment
   - text: Features
-    url: /almanack/tags/index.html#features
+    url: /tags/index.html#features
   - text: Contact
-    url: /almanack/contact
+    url: /contact
   - text: Shop
     url: https://www.bonfire.com/store/chicagojournal/
   - text: Donate
     url: /donate
   - text: Search
-    url: /almanack/search
+    url: /search
 
 # Required Plugins
 plugins_dir:
