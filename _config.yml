@@ -1,4 +1,7 @@
 # Site settings
+url:  "https://www.almanack.blog"
+baseurl: ''
+production_url: 'https://walkercraig.github.io/almanack'
 name: 'Almanack'
 description: 
 meta_description: Almanack is an independent, subscriber-supported blog launched in 2024 as America approached its 250th year. Inspired by the tradition of American letters, it weaves past and present to enrich today’s conversation on American arts, business, lifestyle, politics, science, and sport.
@@ -8,9 +11,6 @@ author:
   image: 'franklinhalfdollar.png'
   greetings: "On Life, Liberty, and the Pursuit..."
 favicon: '/favicon.ico'
-url:  "https://www.almanack.blog"
-baseurl: ''
-production_url: 'https://walkercraig.github.io/almanack'
 disqus: 
 mailchimp_url: '//walkercraig.us11.list-manage.com/subscribe/post?u=b845f7d1807ad41b6c0437990&amp;id=7bd2f97cd8'
 # Add your GA Tracking Id
