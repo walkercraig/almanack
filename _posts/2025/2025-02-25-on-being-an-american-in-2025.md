@@ -7,7 +7,7 @@ excerpt: Revisiting H.L. Mencken's 1922 essay in 2025, Craig makes some subtle c
 ---
 
 <figure>
-  <img src="https://1drv.ms/i/c/800b07d8a62f7b21/IQQu1wFcAqjVTbeJ874FuBV9AUifFij9Wg_kowoB7tU5snE?width=1456&height=816" width="1456" height="816" />
+  <img src="https://1drv.ms/i/c/800b07d8a62f7b21/IQQu1wFcAqjVTbeJ874FuBV9AUifFij9Wg_kowoB7tU5snE?width=1456&height=816" width="1456" height="816" alt="AI Generated Image."/>
   <figcaption>This image, which can rightly be described as AI slop, is merely a placeholder but, notably, an image of AI slop is itself a subtle metaphor for our modern times.</figcaption>
 </figure>
 ---
