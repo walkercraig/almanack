@@ -1,13 +1,16 @@
 ---
 layout: post
-image: /assets/images/posts/2025/0_1.png
+image: https://onedrive.live.com/personal/800b07d8a62f7b21/Documents/Pictures/Challenge%20Media/Almanack/Posts/Images/0_1.png
 tag: [ Commentary ]
 title: On Being an American in 2025
 excerpt: Revisiting H.L. Mencken's 1922 essay in 2025, Craig makes some subtle changes to modernize and update the language and syntax, to see what may still ring true today.
 ---
 
-![0-1.png](https://walkercraig.github.io/almanack/assets/images/posts/2025/0_1.png)
-<small>This image, which can rightly be described as AI slop, is merely a placeholder but, notably, an image of AI slop is itself a subtle metaphor for our modern times.</small>
+<figure>
+  <img src="https://onedrive.live.com/personal/800b07d8a62f7b21/Documents/Pictures/Challenge%20Media/Almanack/Posts/Images/0_1.png" alt="AI generated image."/>
+  <figcaption>This image, which can rightly be described as AI slop, is merely a placeholder but, notably, an image of AI slop is itself a subtle metaphor for our modern times.</figcaption>
+</figure>
+---
 
 Revisiting H.L. Mencken's 1922 essay in 2025, Craig makes some subtle changes to modernize and update the language and syntax, to see what may still ring true today.
 
@@ -55,14 +58,6 @@ That cost, it seems to me is very moderate. Taxes in the United States are not a
 
 ---
 
-**[Almanack needs your support](https://www.almanack.blog/#/portal/signup).**
-
-At just **$12**/year, [your subscription](https://www.almanack.blog/#/portal/signup) not only helps us grow, it helps maintain our commitment to independent publishing.
-
-**[CLICK HERE TO SUBSCRIBE](https://www.almanack.blog/#/portal/signup)**
-
----
-
 #### On Being an American in 2025
 
 by Craig Walker
@@ -92,13 +87,5 @@ See, some folks love this republic because it pays better than, say, Bulgaria. O
 As for me, I like it because it’s exactly my kind of entertainment. It never gets old. It's worth every cent.
 
 And honestly, when you really think about it, the price is super affordable.
-
----
-
-**[Almanack needs your support](https://www.almanack.blog/#/portal/signup).**
-
-At just **$12**/year, [your subscription](https://www.almanack.blog/#/portal/signup) not only helps us grow, it helps maintain our commitment to independent publishing.
-
-**[CLICK HERE TO SUBSCRIBE](https://www.almanack.blog/#/portal/signup)**
 
 ---
