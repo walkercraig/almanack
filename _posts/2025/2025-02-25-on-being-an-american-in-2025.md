@@ -1,13 +1,13 @@
 ---
 layout: post
-image: https://1drv.ms/i/c/800b07d8a62f7b21/ES7XAVwCqNVNt4nzvgW4FX0BGXj21Yf7XPf_Z9EmitNx9A?e=c8PoPb&download=1
+image: https://1drv.ms/i/c/800b07d8a62f7b21/IQQu1wFcAqjVTbeJ874FuBV9AUifFij9Wg_kowoB7tU5snE?
 tag: [ Commentary ]
 title: On Being an American in 2025
 excerpt: Revisiting H.L. Mencken's 1922 essay in 2025, Craig makes some subtle changes to modernize and update the language and syntax, to see what may still ring true today.
 ---
 
 <figure>
-  <img src="https://1drv.ms/i/c/800b07d8a62f7b21/ES7XAVwCqNVNt4nzvgW4FX0BGXj21Yf7XPf_Z9EmitNx9A?e=c8PoPb&download=1" alt="AI generated image."/>
+  <img src="https://1drv.ms/i/c/800b07d8a62f7b21/IQQu1wFcAqjVTbeJ874FuBV9AUifFij9Wg_kowoB7tU5snE?width=1456&height=816" width="1456" height="816" />
   <figcaption>This image, which can rightly be described as AI slop, is merely a placeholder but, notably, an image of AI slop is itself a subtle metaphor for our modern times.</figcaption>
 </figure>
 ---
