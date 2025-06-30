@@ -8,6 +8,7 @@ author:
   image: 'franklinhalfdollar.png'
   greetings: "On Life, Liberty, and the Pursuit..."
 favicon: '/favicon.ico'
+url:  "https://walkercraig.github.io"
 baseurl: ''
 production_url: 'https://walkercraig.github.io/almanack'
 disqus: 
@@ -45,10 +46,11 @@ navigation:
     url: /search
 
 # Required Plugins
-plugins_dir:
+plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Pagination
 paginate: 7
