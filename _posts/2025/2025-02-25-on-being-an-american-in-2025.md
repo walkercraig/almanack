@@ -19,6 +19,8 @@ Since it is in the public domain, you can read the original H.L. Mencken essay, 
 
 Below that, Craig thought it might be interesting to reexamine this essay in 2025, so he made some subtle changes to modernize and update the language and syntax, to see what may, from Mencken's time, still ring true today.
 
+![AlmanackCover1.jpg](https://onedrive.live.com/personal/800b07d8a62f7b21/Documents/Pictures/Challenge%20Media/Almanack/AlmanackCover1.jpg)
+
 ---
 
 **[Almanack needs your support](https://www.almanack.blog/#/portal/signup).**
