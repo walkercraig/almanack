@@ -8,7 +8,7 @@ author:
   image: 'franklinhalfdollar.png'
   greetings: "On Life, Liberty, and the Pursuit..."
 favicon: '/favicon.ico'
-url:  "https://walkercraig.github.io"
+url:  "https://www.almanack.blog"
 baseurl: ''
 production_url: 'https://walkercraig.github.io/almanack'
 disqus: 
