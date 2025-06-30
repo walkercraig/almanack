@@ -55,9 +55,10 @@ figure {
   }
 
   figcaption {
-    margin-top: 0.75rem;
+    margin-top: 0.25rem;
     font-size: small;
-    color: var(--gray-600);
+    color: gray;
+    line-height: normal;
   }
 }
 
