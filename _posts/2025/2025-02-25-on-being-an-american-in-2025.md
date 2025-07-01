@@ -1,6 +1,6 @@
 ---
 layout: post
-image: https://1drv.ms/i/c/800b07d8a62f7b21/IQQu1wFcAqjVTbeJ874FuBV9AUifFij9Wg_kowoB7tU5snE?
+image: https://1drv.ms/i/c/800b07d8a62f7b21/IQQu1wFcAqjVTbeJ874FuBV9AUifFij9Wg_kowoB7tU5snE?&download=1
 tag: [ Commentary ]
 title: On Being an American in 2025
 excerpt: Revisiting H.L. Mencken's 1922 essay in 2025, Craig makes some subtle changes to modernize and update the language and syntax, to see what may still ring true today.
