@@ -24,11 +24,11 @@ Below that, Craig thought it might be interesting to reexamine this essay in 202
 
 ---
 
-**[Almanack needs your support](https://www.almanack.blog/#/portal/signup).**
+**[Almanack needs your support](https://donate.stripe.com/5kA15leBu22VgQEeUW).**
 
-If you find value in what we’re doing, we suggest $12/year, just a dollar a month, to help keep this space alive and growing. More if you’d like, less if you need. Either way, we’re glad you’re here.
+If you find value in what we’re doing, we suggest $12/year, just a dollar a month, to help keep this space alive and growing. More if you’d like, less if you need. Either way, we’re glad you’re here and thank you for visiting.
 
-**[CLICK HERE TO SUBSCRIBE](https://www.almanack.blog/#/portal/signup)**
+**[CLICK HERE TO SUBSCRIBE](https://donate.stripe.com/5kA15leBu22VgQEeUW)**
 
 ---
 
@@ -89,3 +89,9 @@ As for me, I like it because it’s exactly my kind of entertainment. It never g
 And honestly, when you really think about it, the price is super affordable.
 
 ---
+
+**[Almanack needs your support](https://donate.stripe.com/5kA15leBu22VgQEeUW).**
+
+If you find value in what we’re doing, we suggest $12/year, just a dollar a month, to help keep this space alive and growing. More if you’d like, less if you need. Either way, we’re glad you’re here and thank you for visiting.
+
+**[CLICK HERE TO SUBSCRIBE](https://donate.stripe.com/5kA15leBu22VgQEeUW)**
