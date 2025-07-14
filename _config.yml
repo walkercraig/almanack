@@ -40,8 +40,8 @@ navigation:
     url: /contact
   - text: Shop
     url: https://www.bonfire.com/store/chicagojournal/
-  - text: Donate
-    url: /donate
+  - text: Support
+    url: https://donate.stripe.com/5kA15leBu22VgQEeUW
   - text: Search
     url: /search
 
