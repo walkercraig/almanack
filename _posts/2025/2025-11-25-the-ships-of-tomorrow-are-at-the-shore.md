@@ -2,7 +2,7 @@
 layout: post
 image: /assets/images/posts/2025/shipsattheshore.png
 tag: [ Commentary ]
-title: The Ships of Tomorrow are at the Shore
+title: The Ships are at the Shore
 excerpt: All societies face a moment when the world they inherited is no longer the world they inhabit.
 
 ---
