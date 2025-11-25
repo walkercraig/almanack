@@ -12,7 +12,7 @@ excerpt: Revisiting H.L. Mencken's 1922 essay in 2025, Craig makes some subtle c
 </figure>
 ---
 
-Revisiting H.L. Mencken's 1922 essay in 2025, Craig makes some subtle changes to modernize and update the language and syntax, to see what may still ring true today.
+<i>Revisiting H.L. Mencken's 1922 essay in 2025, Craig makes some subtle changes to modernize and update the language and syntax, to see what may still ring true today.</i>
 
 ---
 
