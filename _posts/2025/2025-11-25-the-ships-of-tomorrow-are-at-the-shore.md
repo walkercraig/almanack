@@ -8,7 +8,7 @@ excerpt: All societies face a moment when the world they inherited is no longer 
 ---
 
 <figure>
-  <img src="https://1drv.ms/i/c/800b07d8a62f7b21/EUytkgJ7GbpLsV2GYOuaNdUB1348AG3SlOAFp_AyD4UF2g?e=3TiwNewidth=1024&height=683" width="1024" height="683" alt="The Ships of Tomorrow at the Shore."/>
+  <img src="https://1drv.ms/i/c/800b07d8a62f7b21/EUytkgJ7GbpLsV2GYOuaNdUBoWsTuXV7W1NZjo-ivk7-Bg?e=XKh1BCwidth=1024&height=683" width="1024" height="683" alt="The Ships of Tomorrow at the Shore."/>
 </figure>
 ---
 
