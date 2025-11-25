@@ -17,7 +17,7 @@ All societies face a moment when the world they inherited is no longer the world
 
 ---
 
-For most of my life, I understood the land I lived in. The world felt whole and knowable. Our institutions, though imperfect, seemed built on bedrock. It seemed to obey an unwritten yet clear order of operations that felt steady under the feet. There was a rhythm to life that felt familiar and the map of society matched the territory of our lives. It was a place where a person could believe, if they honored those who came before and followed their steps, that tomorrow would look like today and, hopefully, be a little better than yesterday.
+For most of my life, I understood the land I lived in. The world felt whole and knowable. It seemed to obey an unwritten yet clear order of operations that felt steady under the feet. There was a rhythm to life that felt familiar and the map of society matched the territory of our lives. It was a place where a person could believe, if they honored those who came before and followed their steps, that tomorrow would look like today and, hopefully, be a little better than yesterday.
 
 We lived as what we imagined the first peoples of this continent were like, living along familiar rivers and under familiar skies, trusting that the rhythms we were born into were the rhythms that would carry us through the rest of our days.
 
