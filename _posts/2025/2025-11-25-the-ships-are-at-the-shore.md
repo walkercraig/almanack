@@ -23,9 +23,9 @@ I think, eventually, we became what we imagined the first peoples of this contin
 
 Then one morning, without fanfare, a new shape appeared on the horizon.
 
-At first it was only a speck. Something curious. Something distant. Something you could ignore if you wanted. But the shape grew larger. It separated into more shapes. It gained sails. It gained purpose. And before long it became clear that a new world was making its way toward ours. We didn't know it was an old world, it was new to us. More important, it was not a world we had ever asked to meet. Not a world we fully understood. And a world that did not ask for our permission.
+At first it was only a speck. Something curious. Something distant. Something you could ignore if you wanted. But the shape grew larger. It separated into more shapes. It gained sails. It gained purpose. And before long it became clear that a new world was making its way toward ours. We didn't know it was an old world, for it was new to us. This was not a world we fully understood. More important, it was not a world we had ever asked to meet. And a world that did not ask for our permission.
 
-We are the natives on this shore now, watching the ships of tomorrow come in.
+We are like the natives on this shore now, watching the ships of tomorrow come in. We were just as savage to each other as the natives were to each other, and now we, too, did not cross the ocean to find this new unknown world we must confront. It found us.
 
 ---
 
@@ -36,8 +36,6 @@ If you find value in what we’re doing, we suggest $12/year, just a dollar a mo
 **[CLICK HERE TO SUBSCRIBE](https://donate.stripe.com/5kA15leBu22VgQEeUW)**
 
 ---
-
-We were just as savage to each other as the natives, but now we, too, did not cross the ocean to find this new world. It found us.
 
 For the first half of my life, the continent of the twentieth century felt untouched, or at least untouched in ways we could more easily interpret. Every change came slowly enough that a person could absorb it without fear. But the twenty first century has arrived like an unfamiliar fleet. It has brought with it technologies, cultural norms, political expectations, and economic pressures that were not part of the world we once knew. The ships kept coming. They still come. And every morning there are more anchored just beyond the breakers.
 
