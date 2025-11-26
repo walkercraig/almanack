@@ -77,7 +77,7 @@ But the horizon does not negotiate. It only arrives.
 
 We are living in the fastest cultural and technological acceleration since the industrial revolution. Arguably, in human history. The pace is relentless. The People feel the mismatch. 
 
-That is the source of so much of our unease. We argue about policies, but underneath it all we are arguing about tempo. About feeling unheard. About feeling unmapped. The people can speak with a friend halfway across the world through a magical device they carry in their pocket while flying in a chair at 30,000 feet while the other relaxes with a beer on a boat in a lake, while those meant to translate the public’s pressure into law are speaking to each other in paper memos, on Sunday news shows, and through scheduled committee hearings. From a century that no longer exists.
+That is the source of so much of our unease. We argue about policies, but underneath it all we are arguing about tempo. About feeling unheard. About feeling unmapped. A person can communicate through a magical device they carry in their pocket while flying in a chair at 30,000 feet to a friend halfway across the world relaxing with a beer on a boat in a lake, while those meant to translate the public’s pressure into law are speaking to each other in paper memos, on Sunday news shows, and through a few scheduled committee hearings per year. Again, speaking from a century that no longer exists.
 
 This is not entirely their fault. Some leaders try to meet the moment. Others pretend the moment is not real. But the forces at play do not need anyone’s belief to keep moving. 
 
