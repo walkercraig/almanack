@@ -71,7 +71,7 @@ Florence, brilliant and bursting with creative energy, repeated the pattern. Ban
 
 The Dutch Republic, built for provincial councils and loose alliances was suddenly asked to manage a global trading network. The machinery jammed. Internal factions tore at each other. Larger centralized states overtook them. The Polish Commonwealth's famous liberum veto worked in a slower, smaller world but not the world of the 18th century that demanded agility in the face of continental sized jockeying for position. The French Third Republic, with all its parliamentary intricacies, could not keep control of a society that was industrializing faster than its lawmakers could manage. And, of course, Weimar. Perhaps the most dramatic case of them all and the clearest modern example of a republic unable to match the speed of the century it inhabited. A nineteenth century parliamentary structure was tasked with governing a society exploding with new media, mass movements, urban angst, ideological upheaval, and trauma after a world war. The older generation still spoke the language of the Kaiser’s Germany. The younger generation had moved into something entirely different. That gap swallowed the republic whole.
 
-The pattern repeats. A society encounters a world that is no longer the one it is built to understand. Some welcome the ships. Some deny them. Some attack them. Some try to pretend nothing is happening.
+The pattern repeats to reveal the ostensible fatal flaw in all republics. A republican society encounters a world that is no longer the one it is built to understand. Some welcome the ships. Some deny them. Some attack them. Some try to pretend nothing is happening.
 
 But the horizon does not negotiate. It only arrives.
 
