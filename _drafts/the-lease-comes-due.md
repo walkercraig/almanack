@@ -84,4 +84,4 @@ Two hundred fifty years is a long time to keep that arrangement going. We have d
 
 I include my own city in that. The meters on Clark Street will keep collecting for decades no matter who wins anything. The lease on Washington came due Tuesday, right on schedule, the way the people who planned it wanted. On a median at Wacker and Lake, a brass plaque marks where the man who kept their arrangement alive through a civil war won his first nomination. The cars go by. The light changes. The arrangement holds, for now, because enough people keep choosing it.
 
-*[Your last line.]*
+We have changed the people in charge. I am still waiting for that to change the price, the promise, or the pursuit of anything.
