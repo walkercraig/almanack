@@ -9,13 +9,14 @@ excerpt: Two hundred fifty years in, Americans still know how to change the peop
 
 <figure>
   <img src="https://1drv.ms/i/c/800b07d8a62f7b21/IQThc0QiO26sRqR37D94xw22AeuQ5DB7LvCG85RJ4F04zYQ?width=1024&height=683" width="1024" height="683" alt="Cleaned gym after voting."/>
+  <figcaption>Despite our best efforts to hate one another and wreck the place, somehow, it keeps working.</figcaption>
 </figure>
 
 ---
 
-Kansas last sent a Democrat to the United States Senate in 1932. On Tuesday it sent Adam Hamilton. Texas had gone since 1988 without electing a Democratic senator, and James Talarico ended that streak by beating Ken Paxton. South Carolina, which Donald Trump carried by nearly eighteen points two years ago, elected Annie Andrews, a pediatrician. Iowa put a Democrat in the Senate and another in the governor’s mansion on the same ballot. Greg Abbott, three terms in Austin, lost his job.
+Kansas last sent a Democrat to the United States Senate in 1932. On Tuesday it sent Adam Hamilton. Texas had gone since 1988 without electing a Democrat senator, and James Talarico ended that streak by beating Ken Paxton. South Carolina, which Donald Trump carried by nearly eighteen points two years ago, elected Annie Andrews, a pediatrician. Iowa put a Democrat in the Senate and another in the governor’s mansion on the same ballot. Greg Abbott, three terms in Austin, lost his job.
 
-I write from Chicago, where a Democratic night surprises nobody. That is why the map from the rest of the country holds my attention. When Wichita moves, something real has happened.
+I write from Chicago, where a Democrat night surprises nobody. That is why the map from the rest of the country holds my attention. When Wichita moves, something real has happened.
 
 Chicago keeps its own record of power changing hands, and some of it sits in plain sight. On the median at Wacker and Lake there is a cast stone marker with two brass plaques. One remembers the Sauganash Hotel, where the town held its board meetings when it was barely a town. The other remembers the Wigwam, the wooden hall thrown up on the same corner for the Republican convention of 1860, where Abraham Lincoln was nominated on May 18 of that year. The building is long gone. The traffic does not slow down for it. It is easy to sit at that light and never know that Lincoln’s road to Washington started a few steps away. A republic is mostly made of things like that: arrangements ordinary people stop noticing because they keep working.
 
@@ -31,7 +32,7 @@ The President’s first public appearance after the returns was a tour of the ba
 
 The winners will be tempted to misread the room, so look at the same ballots. According to Ballotpedia’s early returns, which are still preliminary, Kansas elected Hamilton and approved a citizenship requirement for voting in its state constitution. Ohio sent Sherrod Brown back to the Senate, made Amy Acton governor, and approved a photo ID amendment. North Carolina elected Roy Cooper to the Senate and extended its photo ID rule to mail ballots. Arkansas, South Dakota, and West Virginia added citizenship requirements too.
 
-Those results do not tell us how each person voted. They do tell us that electing Democrats and approving stricter voting requirements were compatible choices for these states. Voters can reject a party’s conduct without adopting its opponent’s entire platform. A Democratic victory is not a blank endorsement of everything Democrats want, and the winners would be wise to notice before their consultants explain it away.
+Those results do not tell us how each person voted. They do tell us that electing Democrats and approving stricter voting requirements were compatible choices for these states. Voters can reject a party’s conduct without adopting its opponent’s entire platform. A Democrat victory is not a blank endorsement of everything Democrats want, and the winners would be wise to notice before their consultants explain it away.
 
 The voters changed tenants. They did not sign over the deed. The law has an old word for that arrangement, and Chicago knows better than most what happens when the terms are written badly.
 
@@ -67,7 +68,7 @@ Every Kansan who voted for Roger Marshall woke up Wednesday a full citizen. So d
 
 The first time the presidency passed from one party to the other, in 1801, Jefferson used his inaugural to say out loud what the winners owed. He called it a sacred principle: “that though the will of the majority is in all cases to prevail, that will to be rightful must be reasonable; that the minority possess their equal rights, which equal law must protect, and to violate would be oppression.” Rightful must be reasonable. Two hundred twenty-five years later, nobody has written the clause any tighter.
 
-A majority can carry out policies its opponents dislike; elections must have consequences. But it cannot treat disagreement as grounds for lesser citizenship, or public office as permission to reward its own people and punish everyone else. The new majority’s economic and health-care proposals have to make sense for Republican households too. Its defense of due process must extend to people it would never invite to a fundraiser. Its concern about an overreaching executive must survive the next election of a Democratic president. Otherwise, its principles are merely preferences about who should be in charge. A majority that governs only for the people who voted for it invites the same correction that put it in office. The new one has two years to prove it learned something from watching.
+A majority can carry out policies its opponents dislike; elections must have consequences. But it cannot treat disagreement as grounds for lesser citizenship, or public office as permission to reward its own people and punish everyone else. The new majority’s economic and health-care proposals have to make sense for Republican households too. Its defense of due process must extend to people it would never invite to a fundraiser. Its concern about an overreaching executive must survive the next election of a Democrat president. Otherwise, its principles are merely preferences about who should be in charge. A majority that governs only for the people who voted for it invites the same correction that put it in office. The new one has two years to prove it learned something from watching.
 
 The obligation runs the other way too, and it is just as hard. The people who lost on Tuesday owe the country what Paxton gave it: a concession, and a return to the slow work of persuading neighbors who just voted the other way. Contest a result through the courts and the canvass when there is evidence to contest it. When there is not, accept that other citizens can win an election without having stolen anything.
 
