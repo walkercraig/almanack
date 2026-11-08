@@ -14,6 +14,10 @@ excerpt: Two hundred fifty years in, Americans still know how to change the peop
 
 ---
 
+<i>Two hundred fifty years in, Americans still know how to change the people in charge. The harder test belongs to the people they just handed it to.</i>
+
+---
+
 Kansas last sent a Democrat to the United States Senate in 1932. On Tuesday it sent Adam Hamilton. Texas had gone since 1988 without electing a Democrat senator, and James Talarico ended that streak by beating Ken Paxton. South Carolina, which Donald Trump carried by nearly eighteen points two years ago, elected Annie Andrews, a pediatrician. Iowa put a Democrat in the Senate and another in the governor’s mansion on the same ballot. Greg Abbott, three terms in Austin, lost his job.
 
 I write from Chicago, where a Democrat night surprises nobody. That is why the map from the rest of the country holds my attention. When Wichita moves, something real has happened.
