@@ -1,16 +1,17 @@
 ---
 layout: post
+image: /assets/images/posts/2026/cleanedgymaftervoting.png
 tag: [ Commentary ]
-title: The Lease Comes Due
-excerpt: Two hundred fifty years in, Americans still know how to take back what they lend. The harder test belongs to the people they just handed it to.
-author: Craig Walker
-slug: the-lease-comes-due
-published: false
+title: Held in Usufruct
+excerpt: Two hundred fifty years in, Americans still know how to change the people in charge. The harder test belongs to the people they just handed it to.
+
 ---
 
-*Two hundred fifty years in, Americans still know how to take back what they lend. The harder test belongs to the people they just handed it to.*
+<figure>
+  <img src="https://1drv.ms/i/c/800b07d8a62f7b21/IQThc0QiO26sRqR37D94xw22AeuQ5DB7LvCG85RJ4F04zYQ?width=1024&height=683" width="1024" height="683" alt="Cleaned gym after voting."/>
+</figure>
 
-By Craig Walker · Almanack
+---
 
 Kansas last sent a Democrat to the United States Senate in 1932. On Tuesday it sent Adam Hamilton. Texas had gone since 1988 without electing a Democratic senator, and James Talarico ended that streak by beating Ken Paxton. South Carolina, a state Donald Trump carried by nearly eighteen points two years ago, elected Annie Andrews, a pediatrician. Iowa put a Democrat in the Senate and another in the governor’s mansion on the same ballot. Greg Abbott, three terms in Austin, lost his job.
 
