@@ -47,7 +47,9 @@ Lincoln, the man nominated on that corner at Wacker and Lake, put it plainly in 
 
 The old word is *usufruct*. Jefferson reached for it in a letter to Madison from Paris in September 1789, with the French Revolution about two months old around him. “The earth belongs in usufruct to the living,” he wrote. It is a lawyer’s word out of Roman property law. You may use the thing and eat its fruit. You may not wreck it, and someday it goes back. Jefferson was arguing about debt and whether one generation could bind the next, but the word fits Tuesday better than he could have known. A majority in Congress holds the country in usufruct, exercising power on behalf of a nation that will still belong to everyone else when its members are gone. It may plant and it may harvest. It may not salt the field on the way out.
 
-Two years ago voters granted that use to one party. On Tuesday they took it back and granted it to the other. The machinery worked. Tens of millions of ballots were cast and counted. The loser conceded in Texas. A sitting President said he would get along with the Democrats unless they turned destructive. At 250, that is an achievement worth recognizing: a people can hand over power and call it back.
+Two years ago voters granted that use to one party. On Tuesday they took it back and granted it to the other. The machinery worked. Tens of millions of ballots were cast and counted. The loser conceded in Texas. A sitting President said he would get along with the Democrats unless they turned destructive. 
+
+It is worth pausing on how strange this is. For most of human history, power changed hands by funeral or by force. Here the landlord has no army, the tenant holds the keys to the building, the budget, and the military, and the tenant still packs up when the lease runs out. Human nature gives us very little reason to expect that. It is a habit, kept up by millions of people who rarely think about it, and it should never stop surprising us.
 
 <p align="center">⁂</p>
 
