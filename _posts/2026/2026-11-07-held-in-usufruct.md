@@ -28,7 +28,7 @@ The count is still running, and the results are not certified. But the major new
 
 So the question worth asking in the country’s 250th year is what the voters actually said, and what they are owed now.
 
-<p align="center">☆☆☆</p>
+<p align="center">· ☆ · ☆ · ☆ ·</p>
 
 The cost of living and the war with Iran dominated the reckoning. Reuters and USA Today found Republicans losing ground in 99 percent of the roughly 2,200 counties with most of their votes counted by Wednesday morning, across rich and poor places, cities and suburbs. A party can explain away a bad race. It has a harder time explaining away a map. That is a whole country raising its hand at once.
 
@@ -40,7 +40,7 @@ Those results do not tell us how each person voted. They do tell us that electin
 
 The voters changed tenants. They did not sign over the deed. The law has an old word for that arrangement, and Chicago knows better than most what happens when the terms are written badly.
 
-<p align="center">☆☆☆</p>
+<p align="center">· ☆ · ☆ · ☆ ·</p>
 
 In December 2008 the city leased its 36,000 parking meters to a private company for 75 years in exchange for $1.157 billion. The details went public on a Tuesday. The City Council approved the deal two days later, 40 to 5. The next year the city’s own Inspector General concluded the meters were worth about $974 million more to the city than it got for them. The city and its advisers disputed that math, and they still can. What nobody disputes is the term. Seventy-five years. Every Chicagoan who feeds a meter on Clark Street is paying rent on a decision made in a matter of days, and the lease runs past the lifetimes of a good share of the people paying it.
 
@@ -66,7 +66,7 @@ The same standard applies to accountability. Investigating corruption, exposing 
 
 Lincoln had advice for winners too. Two days after he won a second term, in the middle of a war, he stood at a White House window and told a crowd of serenaders to study the election’s incidents “as philosophy to learn wisdom from, and none of them as wrongs to be revenged.” He had more reason for revenge than anyone in Washington this week, and he chose the other thing. Accountability should leave the country better able to govern itself. The oversight that matters is the oversight that changes something for somebody. The rest is a grudge with a gavel.
 
-<p align="center">☆☆☆</p>
+<p align="center">· ☆ · ☆ · ☆ ·</p>
 
 Every Kansan who voted for Roger Marshall woke up Wednesday a full citizen. So did every South Carolinian who stuck with Darline Graham, and every Texan who voted for Greg Abbott. Their taxes are due on the same day. Their sons and daughters serve in the same war. Their claim on their government did not shrink when their candidate lost.
 
@@ -78,7 +78,7 @@ The obligation runs the other way too, and it is just as hard. The people who lo
 
 The republic depends on that habit. Losing must leave you with rights, a voice, and another chance. Winning must leave you with limits. Neither is an inconvenience to be overcome. They are the arrangement.
 
-<p align="center">☆☆☆</p>
+<p align="center">· ☆ · ☆ · ☆ ·</p>
 
 Lincoln said one more thing at that window in 1864. The election, he told the crowd, “has demonstrated that a people’s government can sustain a national election, in the midst of a great civil war.” He said that until then it had not been known to the world that this was possible. He was a little proud of it, and he had a right to be.
 
