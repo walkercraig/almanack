@@ -22,7 +22,7 @@ Since it is in the public domain, you can read the original H.L. Mencken essay, 
 
 Below that, Craig thought it might be interesting to reexamine this essay in 2025, so he made some subtle changes to modernize and update the language and syntax, to see what may, from Mencken's time, still ring true today.
 
----
+<p align="center">· ☆ · ☆ · ☆ ·</p>
 
 **[Almanack needs your support](https://donate.stripe.com/5kA15leBu22VgQEeUW).**
 
@@ -30,7 +30,7 @@ If you find value in what we’re doing, we suggest $12/year, just a dollar a mo
 
 **[CLICK HERE TO SUBSCRIBE](https://donate.stripe.com/5kA15leBu22VgQEeUW)**
 
----
+<p align="center">· ☆ · ☆ · ☆ ·</p>
 
 #### On Being an American
 
@@ -56,7 +56,7 @@ But feeling better for the laugh. _Ridi si sapis_, said Martial. Mirth is necess
 
 That cost, it seems to me is very moderate. Taxes in the United States are not actually high. I figure, for example, that my private share of the expense of maintaining the Hon. Mr. Harding in the White House this year will work out to less than 80 cents. Try to think of better sport for the money: in New York it has been estimated that it costs $8 to get comfortably tight, and $17.50, on an average, to pinch a girl's arm. The United States Senate will cost me perhaps $11 for the year, but against that expense set the subscription price of the Congressional Record, about $15, which, as a journalist, I receive for nothing. For $4 less than nothing I am thus entertained as Solomon never was by his hooch dancers. Col. George Brinton McClellan Harvey costs me but 25 cents a year; I get Nicholas Murray Butler free. Finally, there is young Teddy Roosevelt, the naval expert. Teddy costs me, as I work it out, about 11 cents a year, or less than a cent a month. More, he entertains me doubly for the money, first as a naval expert, and secondly as a walking attentat upon democracy, a devastating proof that there is nothing, after all, in that superstition. We Americans subscribe to the doctrine of human equality — and the _Rooseveltii_ reduce it to an absurdity as brilliantly as the sons of Veit Bach. Where is your equal opportunity now? Here in this Eden of clowns, with the highest rewards of clowning theoretically open to every poor boy — here in the very citadel of democracy we found and cherish a clown dynasty!
 
----
+<p align="center">· ☆ · ☆ · ☆ ·</p>
 
 #### On Being an American in 2025
 
@@ -88,7 +88,7 @@ As for me, I like it because it’s exactly my kind of entertainment. It never g
 
 And honestly, when you really think about it, the price is super affordable.
 
----
+<p align="center">· ☆ · ☆ · ☆ ·</p>
 
 **[Almanack needs your support](https://donate.stripe.com/5kA15leBu22VgQEeUW).**
 
