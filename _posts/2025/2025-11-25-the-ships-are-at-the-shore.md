@@ -27,7 +27,7 @@ At first it was only a speck. Something curious. Something distant. Something yo
 
 We are like the natives on this shore now, watching the ships of tomorrow come in. We were just as savage to each other as the natives were to each other, and now we, too, did not cross the ocean to find this new unknown world we must confront. It found us.
 
----
+<p align="center">· ☆ · ☆ · ☆ ·</p>
 
 **[Almanack needs your support](https://donate.stripe.com/5kA15leBu22VgQEeUW).**
 
@@ -35,7 +35,7 @@ If you find value in what we’re doing, we suggest $12/year, just a dollar a mo
 
 **[CLICK HERE TO SUBSCRIBE](https://donate.stripe.com/5kA15leBu22VgQEeUW)**
 
----
+<p align="center">· ☆ · ☆ · ☆ ·</p>
 
 For the first half of my life, the continent of the twentieth century felt untouched, or at least untouched in ways we could more easily interpret. Every change came slowly enough that a person could absorb it without fear. But the twenty first century has arrived like an unfamiliar fleet. It has brought with it technologies, cultural norms, political expectations, and economic pressures that were not part of the world we once knew. The ships kept coming. They still come. And every morning there are more anchored just beyond the breakers.
 
@@ -95,7 +95,7 @@ The ships of tomorrow are at our shore. We are the people standing in the sand, 
 
 The future is here. It is time to walk down the beach and speak to it.
 
----
+<p align="center">· ☆ · ☆ · ☆ ·</p>
 
 **[Almanack needs your support](https://donate.stripe.com/5kA15leBu22VgQEeUW).**
 
