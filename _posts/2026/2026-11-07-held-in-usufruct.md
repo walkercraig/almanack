@@ -56,7 +56,7 @@ Two years ago voters granted that use to one party. On Tuesday they took it back
 
 It is worth pausing on how strange this is. For most of human history, power changed hands by funeral or by force. Here the landlord has no army, the tenant holds the keys to the building, the budget, and the military, and the tenant still packs up when the lease runs out. Human nature gives us very little reason to expect that. It is a habit, kept up by millions of people who rarely think about it, and it should never stop surprising us.
 
-<p align="center">☆☆☆</p>
+<p align="center">· ☆ · ☆ · ☆ ·</p>
 
 Now the new holders have to earn the renewal. Chuck Schumer promised “legislative razor wire.” Fine, but razor wire is a fence. It does not make a week at the grocery store cheaper or end a war. Hakeem Jeffries says his majority will focus on affordability and accountability. Good. Hold him to the first word as hard as the second.
 
